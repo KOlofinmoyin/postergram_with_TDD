@@ -1,24 +1,31 @@
-# README
+# Poster-gram (TDD)
+A boot-leg copy of the popular social-media photo sharing app./service, done with some TDD.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Mockup
+  - TBD
+   
+### User-stories
+```
+As a User
+So that I can use the app.
+I can create a post
+```
 
-Things you may want to cover:
+* Ruby version: 2.6.6
 
-* Ruby version
+* System dependencies: MINGW64
 
-* System dependencies
+* Configuration: Windows
 
-* Configuration
-
-* Database creation
+* Database creation:
+  - TBD
 
 * Database initialization
+  - TBD
 
 * How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
+  - `rspec`
 
 * Deployment instructions
-
+  - TBD
 * ...
