@@ -60,4 +60,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'simple_form'
 
 gem "paperclip", ">= 5.2.0"
-gem 'administrate'
+gem "administrate", "0.12.0"
