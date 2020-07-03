@@ -9,6 +9,6 @@ feature 'Returning to ALL posts' do
     fill_in "Caption", with: 'nom nom nom #coffeetime2'
     click_button 'Create Post'
     save_and_open_page
-    expect(page).to have_content('Back')
+    expect(page).to have_content('Cancel')
   end
 end
