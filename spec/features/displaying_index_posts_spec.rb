@@ -7,6 +7,7 @@ feature 'Index displays a list of posts' do
 
     visit '/'
     expect(page).to have_content("This is post one")
-    expect(page).to have_content("This is post two")    
+    expect(page).to have_content("This is post two")
+    expect(page).to have_css("img[src*='coffee']")
   end
 end
